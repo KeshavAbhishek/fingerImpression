@@ -87,7 +87,7 @@
 }
 
 @media only screen and (max-width:700px){
-    #mainFrame{width: 80%;background-size: 80%;}
-    #mainFrame::before{width: 80%;background-size: 80%;}
+    #mainFrame{width: 80vw;background-size: 80vw;}
+    #mainFrame::before{width: 80vw;background-size: 80vw;}
 
 }
