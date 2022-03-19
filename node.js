@@ -4,7 +4,3 @@ var typed = new Typed(".auto-type", {
     backSpeed: 100,
     loop: true
 });
-
-document.getElementById('mainFrame').addEventListener('auxclick',(e)=>{
-    e.preventDefault()
-})
